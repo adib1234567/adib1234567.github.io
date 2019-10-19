@@ -1,0 +1,154 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: rgb(69, 106, 253);
+}
+
+.header {
+    float: left;
+}
+
+
+.kikuk6 {
+    float: left;
+    margin-top: 12px;
+    padding: 10px;
+}
+
+.kikuk7 {
+    margin-left: 7px;
+}
+
+.dropdown {
+    display: inline-block;
+    color: white;
+    margin-top: 104px;
+}
+
+.dropdown a {
+    color: white;
+    text-decoration: none;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgba(255, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 10px;
+    overflow: auto;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.h-nav {
+    text-decoration: none;
+    margin-left: 4px;
+}
+
+.kikuk {
+    text-align: center;
+    margin-top: 2px;
+    font-size: 15px;
+}
+ 
+
+.kikuk1 {
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+    height: 40px;
+    padding: 2px;
+}
+
+
+.header {
+    overflow: hidden;
+    background-color: rgb(69, 106, 253);
+}
+
+.header a {
+    float: left;
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 17px;
+    line-height: 25px;
+    transition: 0.3s;
+}
+
+.header a.logo {
+    font-size: 39px;
+    font-weight: bold;
+    margin-left: 160px;
+}
+
+.header-right {
+    float: right;
+    margin-right: 80px;
+    margin-top: -75px;
+}
+
+.h-nav {
+    color: white;
+}
+
+.header .h-nav:hover {
+    background-color: red;
+    border-radius: 200px;
+}
+
+
+.jumbotron {
+    padding: 20px;
+    text-align: center;
+    color: white;
+    margin-left: 120px;
+    margin-right: 120px;
+
+}
+
+.jumbotron h1 {
+    font-size: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.jumbotron p {
+    margin-left: 190px;
+    margin-right: 190px;
+    margin-bottom: 1px;
+}
+
+.kikuk2 {
+    text-align: center;
+
+}
+
+.kikuk3 {
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.kikuk4 {
+    margin-left: 380px;
+    width: 570px;
+    height: 60px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(31, 219, 31);
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.kikuk5 {
+    text-align: center;
+    margin-top: 2px;
+    color: white;
+}

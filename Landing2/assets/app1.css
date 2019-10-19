@@ -1,0 +1,185 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.jumbotron {
+    margin-top: 60px;
+    background-image: linear-gradient(to bottom right, white -31%, black 50%, red 90%);
+}
+
+.menu-header {
+    float: right;
+    margin-top: 18px;
+    margin-right: 80px;
+
+}
+
+.h-nav {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.container {
+    font-size: 20px;
+    text-align: center;
+    margin-top: -70px;
+}
+
+.awal {
+    font-size: 90px;
+    color: white;
+}
+
+.jumbotron1 {
+    font-size: 30px;
+    color: white;
+}
+
+.dropdown {
+    background-color: white;
+    padding: 10px 100px 10px 1px;
+    width: 200px;
+    margin-left: 1px;
+    margin-top: 5px;
+    overflow: auto;
+    border-radius: 5px;
+    float: left;
+}
+
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.search-city {
+    margin-top: 5px;
+    padding: 12px;
+    width: 400px;
+    margin-left: 10px;
+    color: black;
+    float: left;
+    border-radius: 5px;
+
+}
+
+
+
+.submit-sc {
+    width: 117px;
+    border-radius: 5px;
+    padding: 13px;
+    float: left;
+    margin-left: 12px;
+    margin-top: 6px;
+    background-color: #ff2222;
+    border: none;
+}
+
+.jumbotron2 {
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+.jumbotron3 {
+    margin-top: -91px;
+    widt
+}
+
+.kendaraan {
+    display: inline-block;
+    border: 1px solid white;
+    margin-right: 20px;
+    padding: 20px;
+    color: white;
+    width: 100px;
+}
+
+.kikuk {
+    text-align: center;
+    font-size: 80px;
+    margin-top: 48px;
+    margin-bottom: 18px;
+}
+
+.kikuk0 {
+    color: red;
+}
+
+.kikuk1 {
+    text-align: center;
+    margin-bottom: 46px;
+}
+
+.image-galery {
+    display: inline-block;
+    background-color: white;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.3);
+    margin: 15px;
+}
+
+.name-galery {
+    margin-left: 17px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+
+.image {
+
+    width: 378px;
+    height: 200px;
+}
+
+.image-cities {
+    display: inline-block;
+}
+
+.imagea {
+    width: 570px;
+    height: 370px;
+    float: left;
+    margin: 8px;
+}
+
+.imagee {
+    width: 300px;
+    height: 175px;
+    margin-top: 5px;
+    float: right;
+    margin: 10px;
+}
+
+.gambar1 {
+    width: 480px;
+    height: 300px;
+    background-color: red;
+    background-size: cover;
+}
+
+.perampingan {
+    padding: 58px;
+}
+
+.footer {
+    background-color: #100236;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.icon-galery {}

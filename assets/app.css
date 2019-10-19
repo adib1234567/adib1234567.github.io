@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+.body {
+    margin: 0;
+}
+
+.jumbotron {
+    font-family: 'New Rocker';
+    font-size: 102px;
+}
+
+.kikuk1 {
+    text-align: center;
+}
+
+.tombol a {
+    text-decoration: none;
+    padding: 10px 50px 15px 50px;
+    margin: 5px;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-image: url('../img/rainbow1.gif');
+    transition: 0.7s;
+}
+
+.a1:hover {
+    padding: 5px 45px 10px 45px;
+    margin-right: -1254px;
+    margin-left: -1047px;
+    font-size: 40px;
+    display: inline-block;
+    font-family: 'New Rocker';
+}
+
+.a2:hover {
+    padding: 5px 45px 10px 45px;
+    margin-right: -816px;
+    margin-left: -1047px;
+    font-size: 40px;
+    display: inline-block;
+    font-family: 'New Rocker';
+}
