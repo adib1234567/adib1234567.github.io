@@ -23,11 +23,11 @@
     border: 1px solid black;
     border-radius: 10px;
     background-image: url('../img/rainbow1.gif');
-    transition: 0.3s;
+    transition: 1.5s;
 }
 
 .a1:hover {
-    padding: 5px 45px 10px 45px;
+    padding: 20px 60px 25px 60px;
     margin-right: -1254px;
     margin-left: -1047px;
     font-size: 40px;
@@ -36,7 +36,7 @@
 }
 
 .a2:hover {
-    padding: 5px 45px 10px 45px;
+    padding: 20px 60px 25px 60px;
     margin-right: -816px;
     margin-left: -1047px;
     font-size: 40px;
