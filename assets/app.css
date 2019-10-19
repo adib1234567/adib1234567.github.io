@@ -23,7 +23,7 @@
     border: 1px solid black;
     border-radius: 10px;
     background-image: url('../img/rainbow1.gif');
-    transition: 0.7s;
+    transition: 0.3s;
 }
 
 .a1:hover {
